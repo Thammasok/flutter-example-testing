@@ -7,4 +7,6 @@ class Counter {
   void increment() => value++;
 
   void decrement() => value--;
+
+  int getNumber() => 4;
 }
