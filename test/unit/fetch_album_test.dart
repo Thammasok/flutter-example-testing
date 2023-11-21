@@ -1,14 +1,14 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart' as http;
-import 'package:testing_app/album.dart';
+import 'package:flutter_example_testing/album.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 
 import 'fetch_album_test.mocks.dart';
 
+// https://pub.dev/packages/mockito
 // Generate a MockClient using the Mockito package.
 // Create new instances of this class in each test.
-@GenerateMocks([http.Client])
 @GenerateMocks([http.Client])
 void main() {
   group('fetchAlbum', () {

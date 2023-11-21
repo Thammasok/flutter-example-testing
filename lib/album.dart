@@ -1,3 +1,6 @@
+// Mock http
+// https://docs.flutter.dev/cookbook/testing/unit/mocking
+
 import 'dart:async';
 import 'dart:convert';
 
