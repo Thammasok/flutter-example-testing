@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_example_testing/simple.dart';
+import 'package:flutter_example_testing/widgets/simple.dart';
 
 void main() {
   // An introduction to widget testing

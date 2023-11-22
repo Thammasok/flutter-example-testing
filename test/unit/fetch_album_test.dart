@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart' as http;
-import 'package:flutter_example_testing/album.dart';
+import 'package:flutter_example_testing/fetch/album.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 

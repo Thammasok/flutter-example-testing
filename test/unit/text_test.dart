@@ -1,4 +1,4 @@
-import 'package:flutter_example_testing/text.dart';
+import 'package:flutter_example_testing/functions/text.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:test/test.dart';
 import 'counter_test.mock.dart';

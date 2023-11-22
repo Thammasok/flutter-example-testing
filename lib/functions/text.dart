@@ -1,4 +1,4 @@
-import 'package:flutter_example_testing/counter.dart';
+import 'package:flutter_example_testing/functions/counter.dart';
 
 class Print {
   var counter = Counter();
